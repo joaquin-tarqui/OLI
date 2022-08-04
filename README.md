@@ -31,5 +31,11 @@ teste
    
   ![](https://komarev.com/ghpvc/?username=oliverhard-github-oliverhard&color=blue)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,oliverhard.github.io)](https://github.com/oliverhard/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](htt
+  <a href="https://github.com/oliverhard">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oliverhard&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+</div>ps://github.com/anuraghazra/github-readme-stats)
+  
+ ![Animação de cobra](htpps://github.com/oliverhard/oliverhard/blob/output/github-contribution-grid-snake.svg)
+  
